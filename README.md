@@ -1,6 +1,6 @@
 # What Makes a Hit Song?
 
-An ECON6113 econometrics project examining whether happier-sounding songs receive more streams after accounting for other audio features and genre.
+An analysis project examining whether happier-sounding songs receive more streams after accounting for other audio features and genre.
 
 **Researchers:** Alex Griffa, Preet Khimasia, Shakthi Kannan, and Yusuf Mirasyedi.
 
