@@ -1,0 +1,22 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local credentials and configuration
+.env
+.env.*
+.kaggle/
+kaggle.json
+access_token
+
+# Download data from Kaggle rather than committing a local copy
+viral_songs.csv
+data/
+.cache/
+
+# Operating system files
+.DS_Store
+Thumbs.db

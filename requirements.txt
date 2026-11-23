@@ -1,0 +1,15 @@
+# Analysis and plotting
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels>=0.14.6
+
+# Kaggle CSV adapter and pandas table styling
+kagglehub[pandas-datasets]
+Jinja2
+
+# Interactive notebook environment
+jupyterlab
+ipykernel
